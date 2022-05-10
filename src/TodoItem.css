@@ -1,0 +1,19 @@
+.post {
+    width: 500px;
+    height: 50px;
+    border: rgb(204, 170, 125) 1px solid;
+    background-color: silver;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.test {
+    color: black;
+}
+
+.complete {
+    border-color: green;
+    border-width: 2px;
+}
